@@ -94,7 +94,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
- to open the project in web Browser
+ to open the project in web Browser with live server or simply use any web browser
 
 ### Setup
 
